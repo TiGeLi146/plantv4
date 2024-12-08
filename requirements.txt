@@ -1,0 +1,2 @@
+aiogram==2.22
+langchain-core~=0.3.22
